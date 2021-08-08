@@ -33,11 +33,23 @@ This is just a sample assignment project.
              <li> $ cd Notepad-- </li>
              <li> $ qmake Notepad--.pro </li>
              <li> $ make </li>
+             ## NOTE: Building the code from QT Creator is *recommended*. *Avoid* using make, it clutters the directory.
+                 <li>To Install QT Creator: $ sudo apt-get install qt-creator -y </li>
     </ul>
 </ol>
 
 # Running Notepad--
 $ ./Notepad--
+
+# Test Configration
+OS: Ubuntu 20.04.2 LTS x64bit
+
+RAM: 8 GB
+
+CPU: i7 6<sup>th</sup> gen
+
+QT Version: 5.12.8 
+
 
 # References
 1. I started the code from: https://www.youtube.com/watch?v=x858_WCtl_Y
